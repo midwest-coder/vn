@@ -6,8 +6,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: #0e7eab;
+  border: 1px solid #0e7eab;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -66,15 +66,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #0e7eab;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: #084a64;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #0e7eab;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #0e7eab;
   }
 }
 
@@ -96,9 +96,6 @@
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
-  background: -webkit-linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
 }
 
 .masthead h2 {
@@ -140,20 +137,20 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #0e7eab;
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #0a5b7c;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #0a5b7c;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #084a64 !important;
 }
 
 .about-section {
@@ -176,7 +173,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #0e7eab;
   }
 }
 
@@ -190,7 +187,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #0e7eab;
     border-width: .25rem;
     width: 30%;
   }
@@ -221,7 +218,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #0e7eab;
 }
 
 .contact-section .card h4 {
@@ -232,7 +229,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #0e7eab;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -265,12 +262,12 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #0e7eab;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #3c6360;
+  color: #06394d;
 }
 
 .bg-black {
@@ -278,11 +275,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #0e7eab !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #0e7eab !important;
 }
 
 footer {

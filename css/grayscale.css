@@ -91,6 +91,10 @@
   background-size: cover;
 }
 
+.masthead img {
+  width: 200px;
+}
+
 .masthead h1 {
   font-family: 'Varela Round';
   font-size: 2.5rem;
@@ -114,6 +118,9 @@
   .masthead {
     height: 100vh;
     padding: 0;
+  }
+  .masthead img {
+    width: 480px;
   }
   .masthead h1 {
     font-size: 6.5rem;

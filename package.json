@@ -1,8 +1,8 @@
 {
     "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "name": "Vitality Nails",
     "version": "4.1.1",
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "description": "Web page for vitality nails",
     "keywords": [
         "css",
         "sass",
@@ -11,15 +11,11 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/grayscale",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": ,
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Kevin Stamps",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Kevin Stamps"
     ],
     "repository": {
         "type": "git",
